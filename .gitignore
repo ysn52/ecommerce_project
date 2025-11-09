@@ -1,0 +1,23 @@
+# === Backend (Spring Boot) ===
+target/
+*.log
+*.class
+
+# Maven Wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# === Frontend (Vite + React) ===
+ecom-catalog-react/node_modules/
+ecom-catalog-react/dist/
+
+# === IDE & OS ===
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# === Environment files ===
+.env
+
